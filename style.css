@@ -59,8 +59,9 @@ nav .btns {
   color: white;
 }
 
-.btns select option {
+.btns select option{
   color: black;
+
 }
 
 .btns button {
@@ -112,9 +113,10 @@ nav .btns {
   width: 25vw;
   font-size: 1rem;
   border-radius: 5px;
-  border: none;
+  border:none;
   font-weight: bold;
   box-shadow: 0 0 2px white;
+
 }
 
 .user-input button {
@@ -239,9 +241,9 @@ nav .btns {
   width: 25vw;
   font-size: 1rem;
   border-radius: 5px;
-  border: none;
+  border:none;
   font-weight: bold;
-  box-shadow: 0 0 2px white;
+  box-shadow: 0 0 2px white
 }
 
 .email button {
@@ -263,15 +265,15 @@ footer {
   max-width: 75vw;
 }
 
-/* .opts {
+.opts {
   display: flex;
   padding-bottom: 50px;
-} */
+}
 
-/* .foot {
+.foot {
   margin: 10px 30px;
   padding-right: 25px;
-} */
+}
 
 footer p {
   padding-left: 25px;
@@ -287,7 +289,7 @@ a {
   padding: 10px;
 }
 
-footer select {
+footer select  {
   margin-left: 9px;
   width: 100px;
   padding: 6px;
@@ -299,34 +301,6 @@ footer select {
   color: white;
 }
 
-footer select option {
-  color: black;
-}
-
-/* foooter */
-.opts {
-  display: flex;
-  flex-wrap: wrap;
-  padding-bottom: 50px;
-}
-
-.foot {
-  margin: 10px;
-  padding-right: 25px;
-}
-
-footer select {
-  margin-left: 9px;
-  width: 100px;
-  padding: 6px;
-  border-radius: 3px;
-  border: none;
-  box-shadow: 0 0 3px white;
-  background: transparent;
-  text-align: center;
-  color: white;
-}
-
-footer select option {
+footer select option{
   color: black;
 }
